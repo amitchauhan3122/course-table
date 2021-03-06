@@ -27,6 +27,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="<?= base_url(); ?>test_api">Test_api<span class="sr-only">(current)</span></a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?= base_url('firebase_sms'); ?>">Phone login<span class="sr-only">(current)</span></a>
+                    </li>
                 </ul>
             </div>
             <form class="form-inline my-2 my-lg-0">

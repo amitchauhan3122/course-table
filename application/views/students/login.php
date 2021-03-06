@@ -11,6 +11,7 @@
   <div class="form-group">
     <label>password</label>
     <input type="text" name="password" class="form-control" placeholder="password*"  required autofocus>
+    <span class="text-muted">user-:amitchauhan3122@gmail.com/pass-:admin</span>
   </div>
   <a class="btn btn-link" href="<?= base_url('students/forgot_password') ?>" class="btn btn-primary">Forgot password</a></br>
   <button type="submit" class="btn btn-primary">Submit</button>
